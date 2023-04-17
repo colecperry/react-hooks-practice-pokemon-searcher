@@ -1340,6 +1340,96 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Cole Perry",
+      "hp": 0,
+      "sprites": {
+        "front": "5",
+        "back": "5"
+      },
+      "id": 151
+    },
+    {
+      "name": "Cole",
+      "hp": "10",
+      "sprites": {
+        "front": "5",
+        "back": "5"
+      },
+      "id": 152
+    },
+    {
+      "name": "Cole",
+      "hp": "10",
+      "sprites": {
+        "front": "5",
+        "back": "5"
+      },
+      "id": 153
+    },
+    {
+      "name": "egg",
+      "hp": 0,
+      "sprites": {
+        "front": "1",
+        "back": "1"
+      },
+      "id": 154
+    },
+    {
+      "name": "t",
+      "hp": 0,
+      "sprites": {
+        "front": "t",
+        "back": "t"
+      },
+      "id": 155
+    },
+    {
+      "name": "z",
+      "hp": 0,
+      "sprites": {
+        "front": "t",
+        "back": "t"
+      },
+      "id": 156
+    },
+    {
+      "name": "z",
+      "hp": "100",
+      "sprites": {
+        "front": "t",
+        "back": "t"
+      },
+      "id": 157
+    },
+    {
+      "name": "q",
+      "hp": "100",
+      "sprites": {
+        "front": "t",
+        "back": "t"
+      },
+      "id": 158
+    },
+    {
+      "name": "w",
+      "hp": "0",
+      "sprites": {
+        "front": "2",
+        "back": "2"
+      },
+      "id": 159
+    },
+    {
+      "name": "y",
+      "hp": "100",
+      "sprites": {
+        "front": "2",
+        "back": "2"
+      },
+      "id": 160
     }
   ]
 }
